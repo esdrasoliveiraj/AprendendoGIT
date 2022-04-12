@@ -1,3 +1,5 @@
 olá, primeiro texto! Testando a branch Staging.
 
+Testando git no VSCode.
+
 Nova linha adicionada.
